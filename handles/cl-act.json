@@ -47,11 +47,11 @@
         }
       ],
       "created_at": "2026-03-11T18:47:54+00:00",
-      "dependency_graph_path": "packages/cl-act/dependency_graph.json",
+      "dependency_graph_path": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/dependency_graph.json",
       "distribution_name": "activation-cl-validation",
       "install_target": "activation-cl-validation",
       "manifest_path": "packages/cl-act/packaging_manifest.json",
-      "requirements_path": "packages/cl-act/requirements.txt",
+      "requirements_path": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/requirements.txt",
       "source_run_id": "64db4f51-4d7a-45e3-8f3b-5da9ae2abea1",
       "version": "0.1.0"
     },
@@ -94,11 +94,11 @@
         }
       ],
       "created_at": "2026-03-11T20:54:13+00:00",
-      "dependency_graph_path": "packages/cl-act/dependency_graph.json",
+      "dependency_graph_path": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/dependency_graph.json",
       "distribution_name": "activation-cl-validation",
       "install_target": "activation-cl-validation",
       "manifest_path": "packages/cl-act/packaging_manifest.json",
-      "requirements_path": "packages/cl-act/requirements.txt",
+      "requirements_path": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/requirements.txt",
       "source_run_id": "83ee7868-d428-49bd-8660-6a783d7d605c",
       "version": "0.1.1"
     },
@@ -148,11 +148,11 @@
         }
       ],
       "created_at": "2026-03-11T21:34:39+00:00",
-      "dependency_graph_path": "packages/cl-act/dependency_graph.json",
+      "dependency_graph_path": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/dependency_graph.json",
       "distribution_name": "activation-cl-validation",
       "install_target": "activation-cl-validation",
       "manifest_path": "packages/cl-act/packaging_manifest.json",
-      "requirements_path": "packages/cl-act/requirements.txt",
+      "requirements_path": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/requirements.txt",
       "source_run_id": "7ec057b4-cd08-4fe4-95bf-7d6e4dc89680",
       "version": "0.1.2"
     },
@@ -258,11 +258,11 @@
         }
       ],
       "created_at": "2026-03-11T22:34:35+00:00",
-      "dependency_graph_path": "packages/cl-act/dependency_graph.json",
+      "dependency_graph_path": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/dependency_graph.json",
       "distribution_name": "activation-cl-validation",
       "install_target": "activation-cl-validation",
       "manifest_path": "packages/cl-act/packaging_manifest.json",
-      "requirements_path": "packages/cl-act/requirements.txt",
+      "requirements_path": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/requirements.txt",
       "source_run_id": "48b4c4c9-9573-4d99-915c-13b663431efd",
       "version": "0.1.3"
     }
