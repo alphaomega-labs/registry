@@ -1,0 +1,59 @@
+{
+  "handle": "yb171-raman-gate",
+  "latest_version": "0.1.0",
+  "package_type": "library",
+  "project_name": "Inner shell excited clock state gate",
+  "repo_id": "omegaXiv-labs/omegaXiv-run-79511904-9604-483a-9afe-21038b35f3a8",
+  "repo_url": "https://github.com/omegaXiv-labs/omegaXiv-run-79511904-9604-483a-9afe-21038b35f3a8",
+  "schema_version": "1.0",
+  "updated_at": "2026-03-12T00:40:33+00:00",
+  "versions": [
+    {
+      "artifacts": [
+        {
+          "kind": "wheel",
+          "path": "packages/yb171-raman-gate/dist/omegaxiv_yb171_raman_gate-0.1.0-py3-none-any.whl",
+          "sha256": "d2c3157a7c0ad9e56afbfaf675ab21745b9fe5c77e1c42e1af5ff8063a26e7b3",
+          "size_bytes": 7223,
+          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-79511904-9604-483a-9afe-21038b35f3a8/main/packages/yb171-raman-gate/dist/omegaxiv_yb171_raman_gate-0.1.0-py3-none-any.whl"
+        },
+        {
+          "kind": "other",
+          "path": "packages/yb171-raman-gate/packaging_manifest.json",
+          "sha256": "d3af433cb70f749b5846c55a8fd9cb99e1a511cbf15e5225ce6bdf93480a58c6",
+          "size_bytes": 4386,
+          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-79511904-9604-483a-9afe-21038b35f3a8/main/packages/yb171-raman-gate/packaging_manifest.json"
+        },
+        {
+          "kind": "other",
+          "path": "packages/yb171-raman-gate/dependency_graph.json",
+          "sha256": "11b8751d6b00855897abf04dc5b523711a4b32179cde37c6bf6fdc841a409f70",
+          "size_bytes": 1239,
+          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-79511904-9604-483a-9afe-21038b35f3a8/main/packages/yb171-raman-gate/dependency_graph.json"
+        },
+        {
+          "kind": "other",
+          "path": "packages/registry/index.json",
+          "sha256": "ae33ef5a6fbfdc66541c1b5d49e6403251ad9c41c6e56b415615c251c749b089",
+          "size_bytes": 86,
+          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-79511904-9604-483a-9afe-21038b35f3a8/main/packages/registry/index.json"
+        },
+        {
+          "kind": "other",
+          "path": "packages/registry/yb171-raman-gate.json",
+          "sha256": "0a2494e60964834a78501fe72fa856337e6d5584e439657b0ef3d3172c0b9143",
+          "size_bytes": 443,
+          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-79511904-9604-483a-9afe-21038b35f3a8/main/packages/registry/yb171-raman-gate.json"
+        }
+      ],
+      "created_at": "2026-03-12T00:40:33+00:00",
+      "dependency_graph_path": "packages/yb171-raman-gate/dependency_graph.json",
+      "distribution_name": "omegaxiv-yb171-raman-gate",
+      "install_target": "file:///app/outputs/runs/1859bb5f-7f20-4961-a161-76e439677861/workspace/packages/yb171-raman-gate/dist/omegaxiv_yb171_raman_gate-0.1.0-py3-none-any.whl",
+      "manifest_path": "packages/yb171-raman-gate/packaging_manifest.json",
+      "requirements_path": "packages/yb171-raman-gate/requirements.txt",
+      "source_run_id": "1859bb5f-7f20-4961-a161-76e439677861",
+      "version": "0.1.0"
+    }
+  ]
+}
