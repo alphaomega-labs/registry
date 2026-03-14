@@ -10,6 +10,16 @@
       "summary": "Reusable package artifacts for activation_cl_validation are staged under workspace/packages/cl-act with validated lint/type/test and clean wheel install/import smoke evidence; release finalization remains blocked because upstream review_feedback decision is iterate and force_packaging_release was not provided.",
       "updated_at": "2026-03-11T22:34:35+00:00"
     },
+    "gri-hybrid-ranker": {
+      "handle": "gri-hybrid-ranker",
+      "latest_version": "0.1.0",
+      "package_type": "library",
+      "record_path": "handles/gri-hybrid-ranker.json",
+      "repo_id": "omegaXiv-labs/omegaXiv-run-847300d1-9697-4153-9694-f2ccf35bd6c3",
+      "repo_url": "https://github.com/omegaXiv-labs/omegaXiv-run-847300d1-9697-4153-9694-f2ccf35bd6c3",
+      "summary": "Registry backfill for run 91db9a32-aae3-44e1-8814-3f362dee8ced.",
+      "updated_at": "2026-03-14T20:47:05+00:00"
+    },
     "yb171-raman-gate": {
       "handle": "yb171-raman-gate",
       "latest_version": "0.1.6",
@@ -22,5 +32,5 @@
     }
   },
   "schema_version": "1.0",
-  "updated_at": "2026-03-13T10:45:50+00:00"
+  "updated_at": "2026-03-14T20:47:06+00:00"
 }
