@@ -105,7 +105,7 @@
       "created_at": "2026-03-15T20:00:32+00:00",
       "dependency_graph_path": "packages/fft-policy-selector/dependency_graph.json",
       "distribution_name": "omegaxiv-fft-policy-selector",
-      "install_target": "packages/fft-policy-selector/dist/omegaxiv_fft_policy_selector-0.1.0-py3-none-any.whl",
+      "install_target": "https://raw.githubusercontent.com/alphaomega-labs/run-b5362065-2e2a-47fe-a2f7-c03bdc20080c/paper-v2/packages/fft-policy-selector/dist/omegaxiv_fft_policy_selector-0.1.0-py3-none-any.whl",
       "manifest_path": "packages/fft-policy-selector/packaging_manifest.json",
       "requirements_path": "packages/fft-policy-selector/requirements.txt",
       "source_run_id": "3c01e50d-170a-4b91-b0de-175023864aa8",
