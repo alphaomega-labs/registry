@@ -1,2 +1,2 @@
-# omegaxiv-registry
-Central OmegaX package handle registry
+# registry
+Central AlphaOmega Labs package handle registry
