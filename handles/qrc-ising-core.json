@@ -1,12 +1,12 @@
 {
   "handle": "qrc-ising-core",
-  "latest_version": "0.1.1",
+  "latest_version": "0.1.2",
   "package_type": "library",
   "project_name": "Quantum Reservoir Computing",
   "repo_id": "alphaomega-labs/run-b07f27c6-49f8-43c4-83e9-1f04168d828a",
   "repo_url": "https://github.com/alphaomega-labs/run-b07f27c6-49f8-43c4-83e9-1f04168d828a",
   "schema_version": "1.0",
-  "updated_at": "2026-03-26T21:51:08+00:00",
+  "updated_at": "2026-03-26T22:38:31+00:00",
   "versions": [
     {
       "artifacts": [
@@ -241,6 +241,158 @@
       "requirements_path": "packages/qrc-ising-core/requirements.txt",
       "source_run_id": "75b88266-ebdc-4f9d-94dc-7c60a1e42b04",
       "version": "0.1.1"
+    },
+    {
+      "artifacts": [
+        {
+          "kind": "other",
+          "path": "packages/qrc-ising-core/packaging_manifest.json",
+          "sha256": "dcb9a491791e09d36d8748e3c200bc82496c440226d90940ee5e5e56377f0838",
+          "size_bytes": 11910,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-b07f27c6-49f8-43c4-83e9-1f04168d828a/paper-v5/packages/qrc-ising-core/packaging_manifest.json"
+        },
+        {
+          "kind": "other",
+          "path": "packages/qrc-ising-core/README.md",
+          "sha256": "f48f18bbf72ec3dcfbe39843d42fbdd3f570097da786b1ff41271b833ad62d2b",
+          "size_bytes": 3461,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-b07f27c6-49f8-43c4-83e9-1f04168d828a/paper-v5/packages/qrc-ising-core/README.md"
+        },
+        {
+          "kind": "other",
+          "path": "packages/qrc-ising-core/requirements.txt",
+          "sha256": "d2adb42ac01c665fe140fece68e6c83695faab355231676000f3da56edc9d076",
+          "size_bytes": 57,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-b07f27c6-49f8-43c4-83e9-1f04168d828a/paper-v5/packages/qrc-ising-core/requirements.txt"
+        },
+        {
+          "kind": "other",
+          "path": "packages/qrc-ising-core/dependency_graph.json",
+          "sha256": "a6022aed4356a1aa589959b414d2139a49723cd88363f1b8e4c79b100326bdea",
+          "size_bytes": 14912,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-b07f27c6-49f8-43c4-83e9-1f04168d828a/paper-v5/packages/qrc-ising-core/dependency_graph.json"
+        },
+        {
+          "kind": "other",
+          "path": "packages/qrc-ising-core/pyproject.toml",
+          "sha256": "d323d88a70ad4c9abd3964a4e7278e05ce3d8e5ea0a31187df54b979170e39e2",
+          "size_bytes": 636,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-b07f27c6-49f8-43c4-83e9-1f04168d828a/paper-v5/packages/qrc-ising-core/pyproject.toml"
+        },
+        {
+          "kind": "other",
+          "path": "packages/qrc-ising-core/extraction_plan.json",
+          "sha256": "03fbad974e8d27e6ba842308b4eddda8e2b77b24f06cb61522355f60c687ed36",
+          "size_bytes": 1177,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-b07f27c6-49f8-43c4-83e9-1f04168d828a/paper-v5/packages/qrc-ising-core/extraction_plan.json"
+        },
+        {
+          "kind": "other",
+          "path": "packages/qrc-ising-core/mcp_server.example.json",
+          "sha256": "7f1a4a7ee59455a187df034f37423e9a1a57a1a75df33a2e70ee3270df80a98b",
+          "size_bytes": 202,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-b07f27c6-49f8-43c4-83e9-1f04168d828a/paper-v5/packages/qrc-ising-core/mcp_server.example.json"
+        },
+        {
+          "kind": "other",
+          "path": "packages/qrc-ising-core/src/qrc_ising_core/__init__.py",
+          "sha256": null,
+          "size_bytes": null,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-b07f27c6-49f8-43c4-83e9-1f04168d828a/paper-v5/packages/qrc-ising-core/src/qrc_ising_core/__init__.py"
+        },
+        {
+          "kind": "other",
+          "path": "packages/qrc-ising-core/src/qrc_ising_core/core.py",
+          "sha256": "8668696ad75873761f6e12c37dba1a31a28a98ee655bb6a7d6c59a521bed293e",
+          "size_bytes": 6536,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-b07f27c6-49f8-43c4-83e9-1f04168d828a/paper-v5/packages/qrc-ising-core/src/qrc_ising_core/core.py"
+        },
+        {
+          "kind": "other",
+          "path": "packages/qrc-ising-core/src/qrc_ising_core/symbolic.py",
+          "sha256": "b8903a36a763530e1f36547093456b7f46cfaee7abed130aac4fa9ed651c989a",
+          "size_bytes": 3063,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-b07f27c6-49f8-43c4-83e9-1f04168d828a/paper-v5/packages/qrc-ising-core/src/qrc_ising_core/symbolic.py"
+        },
+        {
+          "kind": "other",
+          "path": "packages/qrc-ising-core/src/qrc_ising_core/mcp_adapter.py",
+          "sha256": "d158ee6d0b20e01a1acaf1bb9d7ca6fbe06b5b2c571c995716494a661a60be32",
+          "size_bytes": 2696,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-b07f27c6-49f8-43c4-83e9-1f04168d828a/paper-v5/packages/qrc-ising-core/src/qrc_ising_core/mcp_adapter.py"
+        },
+        {
+          "kind": "other",
+          "path": "packages/qrc-ising-core/src/qrc_ising_core/mcp_server.py",
+          "sha256": "f0b02cbc84c2218a973bf9de8e22e9cef5fbfe195d4586b9db1d6a786ff157ad",
+          "size_bytes": 2187,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-b07f27c6-49f8-43c4-83e9-1f04168d828a/paper-v5/packages/qrc-ising-core/src/qrc_ising_core/mcp_server.py"
+        },
+        {
+          "kind": "other",
+          "path": "packages/qrc-ising-core/tests/test_core.py",
+          "sha256": "ff4e206f023ffd6de63cae113c1efd54df915445377a28f1f6e9400eb5886c6d",
+          "size_bytes": 1596,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-b07f27c6-49f8-43c4-83e9-1f04168d828a/paper-v5/packages/qrc-ising-core/tests/test_core.py"
+        },
+        {
+          "kind": "other",
+          "path": "packages/qrc-ising-core/tests/test_symbolic.py",
+          "sha256": "288601df4ca8dd5c54fe95ed0ba38cdb1839f09d29704ec7dde78248aa061981",
+          "size_bytes": 672,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-b07f27c6-49f8-43c4-83e9-1f04168d828a/paper-v5/packages/qrc-ising-core/tests/test_symbolic.py"
+        },
+        {
+          "kind": "other",
+          "path": "packages/qrc-ising-core/tests/test_mcp_adapter.py",
+          "sha256": "577f70cf7b2dc398c715b550e4347156f309bacbfd0610805084b0809940e826",
+          "size_bytes": 1357,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-b07f27c6-49f8-43c4-83e9-1f04168d828a/paper-v5/packages/qrc-ising-core/tests/test_mcp_adapter.py"
+        },
+        {
+          "kind": "other",
+          "path": "packages/qrc-ising-core/examples/basic_usage.py",
+          "sha256": "d464c51ec8dfcf4a63dc0e01caecfe47e8b9a4c9b4a97058f1ae3823160b84b1",
+          "size_bytes": 586,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-b07f27c6-49f8-43c4-83e9-1f04168d828a/paper-v5/packages/qrc-ising-core/examples/basic_usage.py"
+        },
+        {
+          "kind": "wheel",
+          "path": "packages/qrc-ising-core/dist/omegaxiv_qrc_ising_core-0.1.0-py3-none-any.whl",
+          "sha256": "b7ef190701359e50cadb37d9501b3245148d5f5bf36e5147f3aa5d8ea2db6588",
+          "size_bytes": 8830,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-b07f27c6-49f8-43c4-83e9-1f04168d828a/paper-v5/packages/qrc-ising-core/dist/omegaxiv_qrc_ising_core-0.1.0-py3-none-any.whl"
+        },
+        {
+          "kind": "sdist",
+          "path": "packages/qrc-ising-core/dist/omegaxiv_qrc_ising_core-0.1.0.tar.gz",
+          "sha256": "bd5c2064725814e39d82ce567f0494a626b0e1e73ea378979e213f733cf294a0",
+          "size_bytes": 8504,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-b07f27c6-49f8-43c4-83e9-1f04168d828a/paper-v5/packages/qrc-ising-core/dist/omegaxiv_qrc_ising_core-0.1.0.tar.gz"
+        },
+        {
+          "kind": "other",
+          "path": "packages/registry/index.json",
+          "sha256": "f2edf3ce6c12b112df6c61e4d8041b6ac71ab6e0a4907c618e9aa1dd320ece0f",
+          "size_bytes": 156,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-b07f27c6-49f8-43c4-83e9-1f04168d828a/paper-v5/packages/registry/index.json"
+        },
+        {
+          "kind": "other",
+          "path": "packages/registry/qrc-ising-core.json",
+          "sha256": "969cb1a02cf84dc985ce25bbb35bf63caf91634c45abf3f2fcd02ba3ea0a5c65",
+          "size_bytes": 390,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-b07f27c6-49f8-43c4-83e9-1f04168d828a/paper-v5/packages/registry/qrc-ising-core.json"
+        }
+      ],
+      "created_at": "2026-03-26T22:38:31+00:00",
+      "dependency_graph_path": "packages/qrc-ising-core/dependency_graph.json",
+      "distribution_name": "omegaxiv-qrc-ising-core",
+      "install_target": "https://raw.githubusercontent.com/alphaomega-labs/run-b07f27c6-49f8-43c4-83e9-1f04168d828a/paper-v5/packages/qrc-ising-core/dist/omegaxiv_qrc_ising_core-0.1.0-py3-none-any.whl",
+      "manifest_path": "packages/qrc-ising-core/packaging_manifest.json",
+      "requirements_path": "packages/qrc-ising-core/requirements.txt",
+      "source_run_id": "c7672c33-c209-4279-8e0d-c6a7dab7f303",
+      "version": "0.1.2"
     }
   ]
 }
