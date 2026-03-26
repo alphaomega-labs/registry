@@ -58,7 +58,7 @@
       "repo_id": "alphaomega-labs/run-b07f27c6-49f8-43c4-83e9-1f04168d828a",
       "repo_url": "https://github.com/alphaomega-labs/run-b07f27c6-49f8-43c4-83e9-1f04168d828a",
       "summary": "Released and revalidated qrc-ising-core 0.1.0 as a reusable Python library with additive MCP stdio companion interface. Canonical user flow remains: (1) pip install omegaxiv, (2) ox install qrc-ising-core==0.1.0, with optional --mcp registration (--mcp, --mcp=codex, --mcp=claude, --mcp=all).",
-      "updated_at": "2026-03-26T22:38:31+00:00"
+      "updated_at": "2026-03-26T22:38:38+00:00"
     },
     "yb171-raman-gate": {
       "handle": "yb171-raman-gate",
@@ -72,5 +72,5 @@
     }
   },
   "schema_version": "1.0",
-  "updated_at": "2026-03-26T22:38:31+00:00"
+  "updated_at": "2026-03-26T22:38:39+00:00"
 }
