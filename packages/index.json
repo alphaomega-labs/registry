@@ -50,6 +50,16 @@
       "summary": "Packaged as a reusable Python library exposing project-core stage logic (parity advantage, entanglement phase diagnostics, operator attribution) under import path `qrchybrid`. Canonical user install is `pip install omegaxiv` then `ox install qrc-hybrid-core==0.1.0`. Primary imports: `from qrchybrid import summarize_parity_advantage, evaluate_entanglement_phase_map, evaluate_operator_attribution`.",
       "updated_at": "2026-03-23T09:01:02+00:00"
     },
+    "qrc-ising-core": {
+      "handle": "qrc-ising-core",
+      "latest_version": "0.1.0",
+      "package_type": "library",
+      "record_path": "handles/qrc-ising-core.json",
+      "repo_id": "alphaomega-labs/run-b07f27c6-49f8-43c4-83e9-1f04168d828a",
+      "repo_url": "https://github.com/alphaomega-labs/run-b07f27c6-49f8-43c4-83e9-1f04168d828a",
+      "summary": "Released a reusable Python library package that extracts the project's core QRC-Ising simulator and symbolic theorem checks into stable public APIs (`qrc_ising_core`). Canonical install flow is `pip install omegaxiv` then `ox install qrc-ising-core==0.1.0`; users then import symbols such as `QRCScenario`, `simulate_accuracy`, and `run_symbolic_checks` from `qrc_ising_core`.",
+      "updated_at": "2026-03-26T16:33:42+00:00"
+    },
     "yb171-raman-gate": {
       "handle": "yb171-raman-gate",
       "latest_version": "0.1.6",
@@ -62,5 +72,5 @@
     }
   },
   "schema_version": "1.0",
-  "updated_at": "2026-03-23T09:01:03+00:00"
+  "updated_at": "2026-03-26T16:33:43+00:00"
 }
