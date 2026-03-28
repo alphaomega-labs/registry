@@ -1,5 +1,15 @@
 {
   "handles": {
+    "antineutrino-safeguards": {
+      "handle": "antineutrino-safeguards",
+      "latest_version": "0.1.0",
+      "package_type": "library",
+      "record_path": "handles/antineutrino-safeguards.json",
+      "repo_id": "alphaomega-labs/run-4523fc66-405b-43c6-bf72-6a6a90d22640",
+      "repo_url": "https://github.com/alphaomega-labs/run-4523fc66-405b-43c6-bf72-6a6a90d22640",
+      "summary": "Released antineutrino-safeguards v0.1.0 as a reusable Python library (`antineutrino_safeguards`) extracted from EXP-ED-01 core simulation, claim-summary, and symbolic-audit symbols. Canonical user flow is `pip install omegaxiv` then `ox install antineutrino-safeguards==0.1.0`; additive MCP registration is `ox install antineutrino-safeguards==0.1.0 --mcp` (or `--mcp=codex|claude|all`). Standard imports use `FusionSafeguardsSimulator`, `MonitoringConfig`, and `summarize_claims`. MCP companion interface launches via stdio with `python -m antineutrino_safeguards.mcp_server --serve` and exposes `simulate_monitoring`, `summarize_claims`, `rank_regimes`, and `symbolic_audit` tools.",
+      "updated_at": "2026-03-28T07:14:17+00:00"
+    },
     "cl-act": {
       "handle": "cl-act",
       "latest_version": "0.1.3",
@@ -72,5 +82,5 @@
     }
   },
   "schema_version": "1.0",
-  "updated_at": "2026-03-26T22:38:39+00:00"
+  "updated_at": "2026-03-28T07:14:17+00:00"
 }
