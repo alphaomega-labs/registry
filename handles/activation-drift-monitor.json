@@ -1,0 +1,143 @@
+{
+  "handle": "activation-drift-monitor",
+  "latest_version": "0.1.0",
+  "package_type": "library",
+  "project_name": "Neuron Distribution Monitoring Layer for Shift/Mismatch Detection",
+  "repo_id": "alphaomega-labs/run-24777c03-a617-4478-a154-dbf9472df5bb",
+  "repo_url": "https://github.com/alphaomega-labs/run-24777c03-a617-4478-a154-dbf9472df5bb",
+  "schema_version": "1.0",
+  "updated_at": "2026-04-04T12:15:10+00:00",
+  "versions": [
+    {
+      "artifacts": [
+        {
+          "kind": "wheel",
+          "path": "packages/activation-drift-monitor/dist/activation_drift_monitor-0.1.0-py3-none-any.whl",
+          "sha256": "3315239092d71f1433d0ffe8be3ef1b2e11cab80620e659ce8de97baa684770a",
+          "size_bytes": 11541,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-24777c03-a617-4478-a154-dbf9472df5bb/paper-v13/packages/activation-drift-monitor/dist/activation_drift_monitor-0.1.0-py3-none-any.whl"
+        },
+        {
+          "kind": "sdist",
+          "path": "packages/activation-drift-monitor/dist/activation_drift_monitor-0.1.0.tar.gz",
+          "sha256": "5394c53d47e135bf455aa83eb2fc2dfcb0d7f5c674f5e1ef1260d50aea29f9a2",
+          "size_bytes": 11899,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-24777c03-a617-4478-a154-dbf9472df5bb/paper-v13/packages/activation-drift-monitor/dist/activation_drift_monitor-0.1.0.tar.gz"
+        },
+        {
+          "kind": "other",
+          "path": "packages/activation-drift-monitor/packaging_manifest.json",
+          "sha256": "d9922b28b3bfa62575b6574520004b7d53b8aaf5cb0ff2dad125370ad5f31f7c",
+          "size_bytes": 2915,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-24777c03-a617-4478-a154-dbf9472df5bb/paper-v13/packages/activation-drift-monitor/packaging_manifest.json"
+        },
+        {
+          "kind": "other",
+          "path": "packages/activation-drift-monitor/README.md",
+          "sha256": "3097a196977b3f44c479e3fc9a72d57b89d4e224f12050779e92851d5c5f28d8",
+          "size_bytes": 3820,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-24777c03-a617-4478-a154-dbf9472df5bb/paper-v13/packages/activation-drift-monitor/README.md"
+        },
+        {
+          "kind": "other",
+          "path": "packages/activation-drift-monitor/requirements.txt",
+          "sha256": "2a0722ba3fa4bad0b10b15df422fcb0b5e7fe312794dd99a25b7a92d9e786f66",
+          "size_bytes": 195,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-24777c03-a617-4478-a154-dbf9472df5bb/paper-v13/packages/activation-drift-monitor/requirements.txt"
+        },
+        {
+          "kind": "other",
+          "path": "packages/activation-drift-monitor/dependency_graph.json",
+          "sha256": "e50932678b63b20ca24ca247d71047b03ffb107591663503494f099844b3df28",
+          "size_bytes": 1571,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-24777c03-a617-4478-a154-dbf9472df5bb/paper-v13/packages/activation-drift-monitor/dependency_graph.json"
+        },
+        {
+          "kind": "other",
+          "path": "packages/activation-drift-monitor/src/activation_drift_monitor/core.py",
+          "sha256": "2ac506454683939fc0ce8889684bfe894f2e0b555bb5a2a94da082399a8871ac",
+          "size_bytes": 9811,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-24777c03-a617-4478-a154-dbf9472df5bb/paper-v13/packages/activation-drift-monitor/src/activation_drift_monitor/core.py"
+        },
+        {
+          "kind": "other",
+          "path": "packages/activation-drift-monitor/src/activation_drift_monitor/metrics.py",
+          "sha256": "060fd50a9cd493df67b4fc85e2e005ab51c24d8a394d0c5852cf8bd7527de5c2",
+          "size_bytes": 3782,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-24777c03-a617-4478-a154-dbf9472df5bb/paper-v13/packages/activation-drift-monitor/src/activation_drift_monitor/metrics.py"
+        },
+        {
+          "kind": "other",
+          "path": "packages/activation-drift-monitor/src/activation_drift_monitor/mcp_server.py",
+          "sha256": "1277b66213799a3eabffd5f3dac3d3d0e799062bc16ec9dffb4810db6680ce19",
+          "size_bytes": 8189,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-24777c03-a617-4478-a154-dbf9472df5bb/paper-v13/packages/activation-drift-monitor/src/activation_drift_monitor/mcp_server.py"
+        },
+        {
+          "kind": "other",
+          "path": "packages/activation-drift-monitor/src/activation_drift_monitor/pytorch_hooks.py",
+          "sha256": "ca896c3760739cb0ad2a2efc991b952c19c840ac5af0b0bf126fbc78c0dcaa95",
+          "size_bytes": 2570,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-24777c03-a617-4478-a154-dbf9472df5bb/paper-v13/packages/activation-drift-monitor/src/activation_drift_monitor/pytorch_hooks.py"
+        },
+        {
+          "kind": "other",
+          "path": "packages/activation-drift-monitor/src/activation_drift_monitor/__init__.py",
+          "sha256": "c4495997c4f4c2abfa8cbca42b148ed50d59b5f0084bab5d69242253d78e9280",
+          "size_bytes": 468,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-24777c03-a617-4478-a154-dbf9472df5bb/paper-v13/packages/activation-drift-monitor/src/activation_drift_monitor/__init__.py"
+        },
+        {
+          "kind": "other",
+          "path": "packages/activation-drift-monitor/tests/test_monitor.py",
+          "sha256": "6c7a8a7390004912ba03ab89cf889daac6eedfe182a343b40ca36907c53d266a",
+          "size_bytes": 1573,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-24777c03-a617-4478-a154-dbf9472df5bb/paper-v13/packages/activation-drift-monitor/tests/test_monitor.py"
+        },
+        {
+          "kind": "other",
+          "path": "packages/activation-drift-monitor/examples/basic_usage.py",
+          "sha256": "aa7e28ede18eb6897479d77e6b732814bc96f105e151dbd219e5849a1ccc2be3",
+          "size_bytes": 1035,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-24777c03-a617-4478-a154-dbf9472df5bb/paper-v13/packages/activation-drift-monitor/examples/basic_usage.py"
+        },
+        {
+          "kind": "other",
+          "path": "packages/activation-drift-monitor/mcp_config.example.json",
+          "sha256": "e98addbecf63a32cbb4afcc01979962ed090a3455f5b87876e37fdaa50879e0c",
+          "size_bytes": 273,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-24777c03-a617-4478-a154-dbf9472df5bb/paper-v13/packages/activation-drift-monitor/mcp_config.example.json"
+        },
+        {
+          "kind": "other",
+          "path": "packages/registry_index.json",
+          "sha256": "7c943fed499bce225dced5cc69fd1c4636541ed31b7a8cad26911f096868acff",
+          "size_bytes": 184,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-24777c03-a617-4478-a154-dbf9472df5bb/paper-v13/packages/registry_index.json"
+        },
+        {
+          "kind": "other",
+          "path": "packages/activation-drift-monitor/registry_record.json",
+          "sha256": "26047048d8a59a9d8dd5010cf4b9ce7449f4929eebdf3d6ee773c1dda01d6e50",
+          "size_bytes": 338,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-24777c03-a617-4478-a154-dbf9472df5bb/paper-v13/packages/activation-drift-monitor/registry_record.json"
+        },
+        {
+          "kind": "other",
+          "path": "packages/activation-drift-monitor/pyproject.toml",
+          "sha256": null,
+          "size_bytes": 981,
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-24777c03-a617-4478-a154-dbf9472df5bb/paper-v13/packages/activation-drift-monitor/pyproject.toml"
+        }
+      ],
+      "created_at": "2026-04-04T12:15:10+00:00",
+      "dependency_graph_path": "packages/activation-drift-monitor/dependency_graph.json",
+      "distribution_name": "activation-drift-monitor",
+      "install_target": "https://raw.githubusercontent.com/alphaomega-labs/run-24777c03-a617-4478-a154-dbf9472df5bb/paper-v13/packages/activation-drift-monitor/dist/activation_drift_monitor-0.1.0-py3-none-any.whl",
+      "manifest_path": "packages/activation-drift-monitor/packaging_manifest.json",
+      "requirements_path": "packages/activation-drift-monitor/requirements.txt",
+      "source_run_id": "d142ddb3-8c9d-46c6-b43f-e3d460ccd047",
+      "version": "0.1.0"
+    }
+  ]
+}
