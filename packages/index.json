@@ -8,7 +8,7 @@
       "repo_id": "alphaomega-labs/run-24777c03-a617-4478-a154-dbf9472df5bb",
       "repo_url": "https://github.com/alphaomega-labs/run-24777c03-a617-4478-a154-dbf9472df5bb",
       "summary": "Released reusable package `activation-drift-monitor` (v0.1.0) as a Python-first library with extracted core drift-monitoring APIs, companion stdio MCP interface (`python -m activation_drift_monitor.mcp_server`), machine-readable packaging manifest/registry metadata, and built wheel+sdist artifacts. Canonical install flow: `pip install omegaxiv` then `ox install activation-drift-monitor==0.1.0` (optional additive MCP registration via `--mcp`, `--mcp=codex`, `--mcp=claude`, or `--mcp=all`).",
-      "updated_at": "2026-04-04T12:15:10+00:00"
+      "updated_at": "2026-04-04T12:15:17+00:00"
     },
     "antineutrino-safeguards": {
       "handle": "antineutrino-safeguards",
@@ -92,5 +92,5 @@
     }
   },
   "schema_version": "1.0",
-  "updated_at": "2026-04-04T12:15:10+00:00"
+  "updated_at": "2026-04-04T12:15:18+00:00"
 }
