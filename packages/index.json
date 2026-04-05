@@ -20,6 +20,16 @@
       "summary": "Released antineutrino-safeguards v0.1.0 as a reusable Python library (`antineutrino_safeguards`) extracted from EXP-ED-01 core simulation, claim-summary, and symbolic-audit symbols. Canonical user flow is `pip install omegaxiv` then `ox install antineutrino-safeguards==0.1.0`; additive MCP registration is `ox install antineutrino-safeguards==0.1.0 --mcp` (or `--mcp=codex|claude|all`). Standard imports use `FusionSafeguardsSimulator`, `MonitoringConfig`, and `summarize_claims`. MCP companion interface launches via stdio with `python -m antineutrino_safeguards.mcp_server --serve` and exposes `simulate_monitoring`, `summarize_claims`, `rank_regimes`, and `symbolic_audit` tools.",
       "updated_at": "2026-03-28T07:14:22+00:00"
     },
+    "ccgo-rl": {
+      "handle": "ccgo-rl",
+      "latest_version": "0.1.0",
+      "package_type": "library",
+      "record_path": "handles/ccgo-rl.json",
+      "repo_id": "alphaomega-labs/run-c234fb70-5d16-40aa-bf00-111fb4862221",
+      "repo_url": "https://github.com/alphaomega-labs/run-c234fb70-5d16-40aa-bf00-111fb4862221",
+      "summary": "Packaging retry completed for handle ccgo-rl (library, v0.1.0). Canonical user install flow remains `pip install omegaxiv` then `ox install ccgo-rl==0.1.0`; MCP remains additive via `ox install ccgo-rl==0.1.0 --mcp` (or `--mcp=codex|claude|all`). Core exports now map to importable packaged symbols (`ccgo_rl.simulator.simulate_benchmark_rows`, `simulate_counterexamples`, `summarize_by_baseline`, and `ccgo_rl.symbolic.run_checks`) extracted from project contribution sources. Built artifacts were rebuilt and checksummed, and installed-artifact smoke validation passed for both Python API import/use and `python -m ccgo_rl.mcp_server --help` from a clean environment.",
+      "updated_at": "2026-04-05T17:43:55+00:00"
+    },
     "cl-act": {
       "handle": "cl-act",
       "latest_version": "0.1.3",
@@ -92,5 +102,5 @@
     }
   },
   "schema_version": "1.0",
-  "updated_at": "2026-04-04T12:15:18+00:00"
+  "updated_at": "2026-04-05T17:43:56+00:00"
 }
